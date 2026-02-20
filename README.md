@@ -1,1 +1,9 @@
-# 6-ARQUIVOS-DE-CALCULO-PYTHON-BASICO
+# 6-ARQUIVOS-DE-CALCULO-PYTHON-BASICO[somador.py](https://github.com/user-attachments/files/25430713/somador.py)
+[somador.py](https://github.com/user-attachments/files/25430713/somador.py)
+[subtrator.py](https://github.com/user-attachments/files/25430714/subtrator.py)[divisor.py](https://github.com/user-attachments/files/25430717/divisor.py)
+[divisor.py](https://github.com/user-attachments/files/25430717/divisor.py)
+[potencia.py](https://github.com/user-attachments/files/25430716/potencia.py)
+[potencia.py](https://github.com/user-attachments/files/25430716/potencia.py)
+[multiplicador.py](https://github.com/user-attachments/files/25430715/multiplicador.py)
+[multiplicador.py](https://github.com/user-attachments/files/25430715/multiplicador.py)
+[subtrator.py](https://github.com/user-attachments/files/25430714/subtrator.py)
